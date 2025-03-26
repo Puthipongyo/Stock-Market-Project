@@ -18,3 +18,8 @@ The pipeline fetches live stock data, processes it using Kafka, stores it in Ama
   - **Amazon EC2** – Hosts Apache Kafka  
   - **Apache Kafka** – Real-time data streaming  
 
+## Result
+![Result](https://github.com/Puthipongyo/Stock-Market-Project/blob/main/Screenshot%202568-03-26%20at%2019.16.22.png)
+![Result](https://github.com/Puthipongyo/Stock-Market-Project/blob/main/Screenshot%202568-03-26%20at%2019.16.36.png)
+![Result](https://github.com/Puthipongyo/Stock-Market-Project/blob/main/Screenshot%202568-03-26%20at%2019.15.48.png)
+![Result](https://github.com/Puthipongyo/Stock-Market-Project/blob/main/Screenshot%202568-03-26%20at%2019.16.00.png)
